@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240506194404",
+    "project_id": "ads-chat-a5182",
+    "storage_bucket": "ads-chat-a5182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240506194404:android:9dca0de0c12a8cbf81dff1",
+        "android_client_info": {
+          "package_name": "com.example.ads_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240506194404-rvtamtggjp69eolgg748q97a2gktc54v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaC81AvaHskacQIqh0PBAOr71HfUgBJEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240506194404-rvtamtggjp69eolgg748q97a2gktc54v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
